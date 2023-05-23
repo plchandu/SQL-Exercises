@@ -1,0 +1,1 @@
+Select * from table where id in (4,5,6)

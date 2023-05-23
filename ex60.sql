@@ -1,0 +1,1 @@
+C:\Users\plcha\OneDrive\Documents\GitHub\SQL-Exercises
